@@ -1,5 +1,7 @@
 ## 📌 Advanced Library Management System (Kotlin - Console Based)
 
+🚀 [Click here to run the application live in your browser!](https://replit.com/@rajeshgaikwad02/Library-Management-System)
+
 A beginner-to-intermediate level, console-based Library Management System written in Kotlin. This project demonstrates object-oriented programming concepts with advanced features like book inventory tracking, member management, loan records, fine calculation, and overdue alerts. It simulates a real-world library system using a structured, menu-driven interface.
 
 ---
